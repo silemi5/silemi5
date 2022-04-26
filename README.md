@@ -5,7 +5,7 @@ Well, hello there stranger. You have reached my profile page in GitHub. I go by 
 I chose the path of being a back-end web developer ever since my second year in college. Full-stack never really stuck to me, since partly front-end are my bane in crafting applications.
 
 ### Technologies? Frameworks?
-Everything is different. I've tried many platforms but fell in love with web technologies. Formerly a PHP artisan (😉), now primarily wielding TypeScript in NodeJS and MongoDB. I like the concept of containers, so it doesn't come to surprise that I also like to use Docker though. Also a little familiar with Kubenetes, enought to deploy our project locally. Redis also count somewhat (yey caching). Oh, and a little security principles.  
+Everything is different. I've tried many platforms but fell in love with web technologies. Formerly a PHP artisan (😉), now primarily wielding TypeScript in NodeJS and MongoDB. I like the concept of containers, so it doesn't come to surprise that I also like to use Docker though. Also a little familiar with Kubenetes, enough to deploy our project locally. Redis also count somewhat (yey caching). Oh, and a little security principles.  
 
 #### TL;DR:  
 - ✅ TypeScript  
